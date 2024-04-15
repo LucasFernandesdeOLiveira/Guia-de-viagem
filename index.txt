@@ -1,0 +1,327 @@
+  </div>
+        <div class="about__image">
+          <img src="/tourly 2.0 turbo/img/pexels-athena-6580703.jpg" alt="about" />
+        </div>
+      </div>
+    </section>
+
+    <section class="discover" id="discover">
+      <div class="section__container discover__container">
+        <h2 class="section__header">Descubra os lugares mais cativantes </h2>
+        <p class="section__subheader">
+          Vamos explorar o mundo juntos, com você e sua família.
+        <div class="discover__grid">
+          <div class="discover__card">
+            <div class="discover__image">
+              <img src="/tourly 2.0 turbo/img/pexels-leo-castro-20896905.jpg" alt="discover" />
+            </div>
+            <div class="discover__card__content">
+              <h4>Lençóis <br>Maranhenses</h4>
+              <p>
+                Os Lençóis Maranhenses oferecem uma paisagem deslumbrante de dunas de areia branca e lagoas azul-turquesa, criando um cenário único de beleza natural no nordeste do Brasil.
+              </p>
+              <button class="discover__btn">
+                Descubra Mais<i class="ri-arrow-right-line"></i>
+              </button>
+            </div>
+          </div>
+          <div class="discover__card">
+            <div class="discover__image">
+              <img src="/tourly 2.0 turbo/img/pexels-pablo-melo-9478873.jpg" alt="discover" />
+            </div>
+            <div class="discover__card__content">
+              <h4>Chapada dos Veadeiros</h4>
+              <p>
+                
+A Chapada dos Veadeiros é um destino de beleza natural deslumbrante,
+ com cachoeiras, trilhas e biodiversidade rica, atraindo viajantes em busca de aventura e espiritualidade.
+
+
+
+              </p>
+              <button class="discover__btn">
+               Descubra Mais <i class="ri-arrow-right-line"></i>
+              </button>
+            </div>
+          </div>
+          <div class="discover__card">
+            <div class="discover__image">
+              <img src="/tourly 2.0 turbo/img/pexels-pexels-user-18105664.jpg" alt="discover" />
+            </div>
+            <div class="discover__card__content">
+              <h4>Pão de Açúcar</h4>
+              <p>
+                O Pão de Açúcar, no Rio de Janeiro,
+                 é um icônico morro de onde se tem uma vista panorâmica da cidade, acessível por bondinho.
+              </p>
+              <button class="discover__btn">
+                Descubra Mais <i class="ri-arrow-right-line"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="blogs" id="blog">
+      <div class="blogs__container">
+        <h2 class="section__header">Últimas novidades nos blogs </h2>
+        <p class="section__subheader">Queremos te ajudar a viajar melhor!</p>
+        <div class="blogs__grid">
+          <div class="blogs__card">
+            <img src="/tourly 2.0 turbo/img/pexels-thiago-kai-16288032.jpg" alt="blog" />
+            <div class="blogs__content">
+              10 erros que todo viajante de primeira viagem vai cometer e como evitá-los!
+            </div>
+          </div>
+          <div class="blogs__card">
+            <img src="/tourly 2.0 turbo/img1/pexels-yuri-manei-3520486.jpg" alt="blog" />
+            <div class="blogs__content">
+              Como é realmente mudar para Brasil e não querer sair mais dele?
+            </div>
+          </div>
+          <div class="blogs__card">
+            <img src="/tourly 2.0 turbo/img1/pexels-victor-barbosa-19077412.jpg" alt="blog" />
+            <div class="blogs__content">
+              Explorando os cantos tranquilos do Rio | Oque fazer na praia.
+            </div>
+          </div>
+          <div class="blogs__card">
+            <img src="/tourly 2.0 turbo/img1/igreja-sao-francisco-de-paula-5147743_1920.jpg" alt="blog" />
+            <div class="blogs__content">
+              11 coisas para saber antes de visitar a igreja de São Francisco.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="journals" id="journals">
+      <div class="section__container journals__container">
+        <h2 class="section__header">Os diários de viagem</h2>
+        <p class="section__subheader">
+          Um diário é um lugar para registrar coisas novas que você descobriu enquanto explora os vários lugares que visita.
+        </p>
+        <div class="journals__grid">
+          <div class="journals__card">
+            <img src="/tourly 2.0 turbo/img1/brazil-4673664_1920.jpg" alt="journal" />
+            <div class="journals__content">
+              <div class="journals__author">
+                <img src="assets/author-1.jpg" alt="author" />
+                <p>Yasmin</p>
+              </div>
+              <h4>Realmente vc ir no Maracanã e totalemte diferente do que esta assistindo pela Tv, eu so fui por conta dos preços incriveis da #TrouyFly e alias recomendo super. #TrouyFlyAMelhor #TrouyFlyÉosGuri .</h4>
+              <div class="journals__footer">
+                <p>11 Abr 2024</p>
+                <span>
+                  <a href="#"><i class="ri-share-fill"></i></a>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="journals__card">
+            <img src="/tourly 2.0 turbo/img1/beautiful-architecture-building.jpg" alt="journal" />
+            <div class="journals__content">
+              <div class="journals__author">
+                <img src="assets/author-2.jpg" alt="author" />
+                <p>Antonio Ryan</p>
+              </div>
+              <h4>Cara,eu literalmente nao tenho palavras para descrever o quao incrivel foi essa experiencia,se vc curte lugares ass como eu,recomendo a #TrouyFly.</h4>
+              <div class="journals__footer">
+                <p>22 Jan 2024</p>
+                <span>
+                  <a href="#"><i class="ri-share-fill"></i></a>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="journals__card">
+            <img src="/tourly 2.0 turbo/img1/pexels-leo-castro-19071242.jpg" alt="journal" />
+            <div class="journals__content">
+              <div class="journals__author">
+                <img src="assets/author-3.jpg" alt="author" />
+                <p>Lucia Amorin</p>
+              </div>
+              <h4>Meus Deus olha isso que lindo,tudo que Deus faz e perfeito,obrigado por realizarem  meu sonho #TrouyFly.</h4>.</h4>
+              <div class="journals__footer">
+                <p>05 Fev 2024</p>
+                <span>
+                  <a href="#"><i class="ri-share-fill"></i></a>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="journals__card">
+            <img src="/tourly 2.0 turbo/img1/pexels-gabii-fernandez-17729279.jpg" alt="journal" />
+            <div class="journals__content">
+              <div class="journals__author">
+                <img src="/tourly 2.0 turbo/img1/Captura de tela 2024-04-12 142215.png" alt="author" />
+                <p>Professor Lucas/Senai</p>
+              </div>
+              <h4>Realmente sensacional,a equipe esta de parabens e a todos os envolvidos da #TrouFly,esse site é papo de senior nmrl</h4>
+              <div class="journals__footer">
+                <p>1 Mar 2024</p>
+                <span>
+                  <a href="#"><i class="ri-share-fill"></i></a>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="journals__card">
+            <img src="/tourly 2.0 turbo/img1/pexels-lucas-meneses-9468586.jpg" alt="journal" />
+            <div class="journals__content">
+              <div class="journals__author">
+                <img src="assets/author-5.jpg" alt="author" />
+                <p>Profesor Fabio/Senai.Back-End</p>
+              </div>
+              <h4>Sinceramente eu não sou muito de comentar ou postar coisas do tipo,mas hoje eu abri uma exceçao, que equipe maravilhosa da #TrouyFly a maneira como me recepcionarm,lembrando que para os desenvolvedores dessa obra prima o Senai está de Portas abertas para os seus Serviços. </h4>
+              <div class="journals__footer">
+                <p>12 Abr 2024</p>
+                <span>
+                  <a href="#"><i class="ri-share-fill"></i></a>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="journals__card">
+            <img src="/tourly 2.0 turbo/img1/pexels-mario-pais-cie-4172523.jpg" alt="journal" />
+            <div class="journals__content">
+              <div class="journals__author">
+                <img src="assets/author-6.jpg" alt="author" />
+                <p>MAria Eduarda</p>
+              </div>
+              <h4>Foi incrível explorar um destino tão diversificado e cheio de surpresas! Desde as paisagens deslumbrantes até a rica cultura local, cada momento foi uma verdadeira aventura agradeço e tambem recomendo #TrouyFly.
+
+
+
+                .</h4>
+              <div class="journals__footer">
+                <p>20 Mar 2024</p>
+                <span>
+                  <a href="#"><i class="ri-share-fill"></i></a>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="journals__btn">
+          <button class="btn">
+           Ver Mais Avaliações <i class="ri-arrow-right-line"></i>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <section class="hero">
+      <div class="section__container hero__container">
+        <p>TrouyFly.</p>
+      </div>
+    </section>
+
+    <section class="gallery" id="gallery">
+      <div class="gallery__container">
+        <h2 class="section__header">Lugares Internacionais</h2>
+        <p class="section__subheader">
+          Explore os lugares mais bonitos do mundo.
+        </p>
+        <div class="gallery__grid">
+          <div class="gallery__card">
+            <img src="assets/gallery-1.jpg" alt="gallery" />
+            <div class="gallery__content">
+              <h4>Northern Lights</h4>
+              <p>Norway</p>
+            </div>
+          </div>
+          <div class="gallery__card">
+            <img src="assets/gallery-2.jpg" alt="gallery" />
+            <div class="gallery__content">
+              <h4>Krabi</h4>
+              <p>Thailand</p>
+            </div>
+          </div>
+          <div class="gallery__card">
+            <img src="assets/gallery-3.jpg" alt="gallery" />
+            <div class="gallery__content">
+              <h4>Bali</h4>
+              <p>Indonesia</p>
+            </div>
+          </div>
+          <div class="gallery__card">
+            <img src="assets/gallery-4.jpg" alt="gallery" />
+            <div class="gallery__content">
+              <h4>Tokyo</h4>
+              <p>Japan</p>
+            </div>
+          </div>
+          <div class="gallery__card">
+            <img src="assets/gallery-5.jpg" alt="gallery" />
+            <div class="gallery__content">
+              <h4>Taj Mahal</h4>
+              <p>India</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="contact" id="contact">
+      <div class="section__container contact__container">
+        <div class="contact__col">
+          <h4>Entre em contato com um dos nossos agentes</h4>
+          <p>Nosso objetivo sempre é responder dentro de 24 horas</p>
+        </div>
+        <div class="contact__col">
+          <div class="contact__card">
+            <span><i class="ri-phone-line"></i></span>
+            <h4>Entre em Contato</h4>
+            <h5>+99 9876543210</h5>
+            <p>Estamos Online Agora</p>
+          </div>
+        </div>
+        <div class="contact__col">
+          <div class="contact__card">
+            <span><i class="ri-mail-line"></i></span>
+            <h4>Envie-nos uma consulta</h4>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="footer">
+      <div class="section__container footer__container">
+        <h4>TrouyFly.</h4>
+        <div class="footer__socials">
+          <span>
+            <a href="#"><i class="ri-facebook-fill"></i></a>
+          </span>
+          <span>
+            <a href="https://www.instagram.com/bizu_e_role_terceirao/"><i class="ri-instagram-fill"></i></a>
+          </span>
+          <span>
+            <a href="#"><i class="ri-twitter-fill"></i></a>
+          </span>
+          <span>
+            <a href="#"><i class="ri-linkedin-fill"></i></a>
+          </span>
+        </div>
+        <p>
+          Férias românticas baratas. Muitas pessoas sentem que há uma quantidade limitada de abundância,
+           riqueza ou chance de ter sucesso na vida.
+        </p>
+        <ul class="footer__nav">
+          <li class="footer__link"><a href="#home">Home</a></li>
+          <li class="footer__link"><a href="#about">About</a></li>
+          <li class="footer__link"><a href="#discover">Discover</a></li>
+          <li class="footer__link"><a href="#blog">Blog</a></li>
+          <li class="footer__link"><a href="#journals">Journals</a></li>
+          <li class="footer__link"><a href="#gallery">Gallery</a></li>
+          <li class="footer__link"><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer__bar">
+        Copyright © 2023 Web Design Mastery. All rights reserved.
+      </div>
+    </section>
+
+    <script src="main.js"></script>
+  </body>
+</html>
